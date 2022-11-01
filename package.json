@@ -1,0 +1,24 @@
+{
+  "name": "sass-thenetninja",
+  "version": "1.0.0",
+  "description": "[SASS Tutorial (Build Your Own CSS Library)](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb) by [**TheNetNinja**](https://www.youtube.com/c/TheNetNinja).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kulotsystems/sass-thenetninja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kulotsystems/sass-thenetninja/issues"
+  },
+  "homepage": "https://github.com/kulotsystems/sass-thenetninja#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.55.0"
+  }
+}
